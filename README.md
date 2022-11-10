@@ -30,7 +30,7 @@ You will build an end-to-end data science workflow leveraging Snowpark for Pytho
 ### Setup
 First, clone the source code for this repo to your local environment:
 ```bash
-git clone https://github.com/michaelgorkow/snowpark_hol_frauddetection.git
+git clone https://github.com/Snowflake-Labs/sfguide-getting-started-machine-learning.git
 cd snowpark_hol_frauddetection
 ```
 
