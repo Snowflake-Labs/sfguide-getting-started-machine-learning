@@ -1,0 +1,6 @@
+
+hol/creds.json
+hol/preprocessing/__pycache__/*
+
+hol/packages_version.json
+hol/python_env.json
