@@ -1,14 +1,14 @@
-name: pysnowpark
+name: pysnowparkxxx
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - nodefaults
 dependencies:
-  - python=3.8
+  - python=3.9
   - pip
   - pip:
     # Snowpark
     - snowflake-snowpark-python[pandas]==1.6.1
-    # - snowflake_ml_python-0.3.1-py3-none-any.whl <- change once snowflake_ml is available via conda/pypi
+    - snowflake-ml-python==1.0.5
     # Basics
     - pandas==1.5.3
     - numpy==1.23.5
