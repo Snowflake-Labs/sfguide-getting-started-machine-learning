@@ -1,4 +1,4 @@
-name: pysnowparkxxx
+name: pysnowpark
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - nodefaults
